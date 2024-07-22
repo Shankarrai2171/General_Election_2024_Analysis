@@ -12,7 +12,9 @@ This project uses machine learning, SQL, and Power BI to predict the Indian Elec
 
 <div align="center"> 
 	
-![Political_Image](https://github.com/user-attachments/assets/94f2b2b5-d779-4f74-b016-401c1bb7abb6)
+![Now](https://github.com/user-attachments/assets/e66344d2-db40-4818-9b5f-7f43225db4a2)
+
+
 </div>
 
 
