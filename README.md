@@ -1,4 +1,4 @@
-# General_Election_2024_Analysing
+
 
 <div align="center">
   <h1>Indian Election 2024 Prediction</h1>
@@ -11,9 +11,9 @@ This project uses machine learning, SQL, and Power BI to predict the Indian Elec
 
 
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/c3d0a4c3-773a-43fa-bbd9-508ac2aa3f1a">
-</div>
+  
+![Political_Image](https://github.com/user-attachments/assets/94f2b2b5-d779-4f74-b016-401c1bb7abb6)
+
 
 
 ### Tools Used:
